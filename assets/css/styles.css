@@ -15,6 +15,14 @@
 }
 
 @media (min-width: 1400px) {
+  .hea4 {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-warning-rgb),var(--bs-text-opacity))!important;
+    padding-left: 80px;
+  }
+}
+
+@media (min-width: 1400px) {
   .text-end {
     text-align: right!important;
     padding-right: 80px;
