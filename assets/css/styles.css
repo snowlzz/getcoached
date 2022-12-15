@@ -219,3 +219,17 @@
   }
 }
 
+@media (min-width: 1400px) {
+  .imag1 {
+    margin-left: -20px;
+    margin-top: 126PX;
+    width: 770px;
+  }
+}
+
+@media (max-width: 360px) {
+  .imag1 {
+    /*width: 50%;*/
+  }
+}
+
